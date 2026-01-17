@@ -171,6 +171,7 @@ Dengan memahami penggunaan `SELECT DISTINCT`, prefix, dan alias, kita dapat meng
 
 ## 🔗 Referensi
 
+* [https://docs.google.com/document/d/18Dc_2P8xDXz7c1FEO37xxm_4Rxx09i49DOvnigZapaA/edit?usp=sharing]
 * [https://www.mysql.com](https://www.mysql.com)
 * [https://www.postgresql.org](https://www.postgresql.org)
 * [https://learn.microsoft.com/sql](https://learn.microsoft.com/sql)
