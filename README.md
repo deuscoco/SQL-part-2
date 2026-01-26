@@ -171,6 +171,7 @@ Dengan memahami penggunaan `SELECT DISTINCT`, prefix, dan alias, kita dapat meng
 
 ## 🔗 Referensi
 
+* [https://medium.com/@amadeusrizz/basis-data-part-2-memahami-select-distinct-prefix-dan-alias-dalam-sql-9e3bd01ae4da]
 * [https://docs.google.com/document/d/18Dc_2P8xDXz7c1FEO37xxm_4Rxx09i49DOvnigZapaA/edit?usp=sharing]
 * [https://www.mysql.com](https://www.mysql.com)
 * [https://www.postgresql.org](https://www.postgresql.org)
